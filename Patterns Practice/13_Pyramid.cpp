@@ -1,6 +1,17 @@
 #include <iostream>
 using namespace std;
 
+/*
+        OUTPUT:
+                   1
+                  121
+                 12321
+                1234321
+                
+                for n=4;
+
+*/
+
 int main()
 {
     int n;
